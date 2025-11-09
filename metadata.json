@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multi-Modal Studio",
+  "description": "A futuristic web application showcasing Gemini's multi-modal capabilities, including fast text responses, image generation, image editing, and video generation from an image.",
+  "requestFramePermissions": []
+}
